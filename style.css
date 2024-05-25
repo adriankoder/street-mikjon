@@ -1,0 +1,21 @@
+body
+{
+    background-color: black;
+}
+h1
+{
+
+color: white;
+font-size: 50px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.street_mission
+
+{
+width: 900px;
+height: auto;
+}
