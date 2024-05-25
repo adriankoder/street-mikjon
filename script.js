@@ -11,3 +11,22 @@ fetch("https://api-eu-central-1-shared-euc1-02.hygraph.com/v2/clwkn2brr00b407uy3
 //       "assets": []
 //     }
 //   }
+
+
+{
+    "errors" [
+      {
+        "message": "Something went wrong (RequestID: clwm0urew0dd706uqg8o78o72). Please contact us in Slack (https://slack.hygraph.com) or via email (support@hygraph.com).",
+        "locations": [
+          {
+            "line": 2,
+            "column": 3
+          }
+        ],
+        "extensions": {
+          "code": "GRAPHQL_VALIDATION_FAILED",
+          "requestID": "clwm0urew0dd706uqg8o78o72"
+        }
+      }
+    ]
+  }
